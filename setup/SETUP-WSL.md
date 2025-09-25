@@ -34,7 +34,7 @@ It's important to appreciate the difference between your Windows home directory,
 3. After that completes, you need to type `exit` to leave WSL and return to the Powershell and then type `ubuntu` to return to Linux, in order that changes to PATH are picked up
 4. Now type `pwd` to check you're in your Linux home directory. If in doubt, `cd ~` and `ls` to check.
 5. Now create a projects directory with `mkdir projects` then `cd projects` to go into it
-6. And, from within your new projects directory, clone the repo with `git clone https://github.com/ed-donner/agents.git`
+6. And, from within your new projects directory, clone the repo with `git clone https://github.com/yasir-ysq/agents.git`
 7. Now go into your new agents directory, your Project Root Directory, with `cd agents`
 8. And now run the all-powerful `uv sync`
 

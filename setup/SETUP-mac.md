@@ -8,8 +8,8 @@ Setting up a powerful environment to work at the forefront of AI is not as easy 
 
 If you hit problems, please don't hesitate to reach out. I am here to get you up and running quickly. There's nothing worse than feeling _stuck_. Message me, email me or LinkedIn message me and I will unstick you quickly!
 
-Email: ed@edwarddonner.com  
-LinkedIn: https://www.linkedin.com/in/eddonner/  
+Email: yasirsufyan@gmail.com  
+LinkedIn: https://www.linkedin.com/in/yasir-qureshi/  
 
 _If you're looking at this in Cursor, please right click on the filename in the Explorer on the left, and select "Open preview", to view the formatted version._
 
@@ -45,7 +45,7 @@ cd ~/projects
 
 Enter this in the terminal in the Projects folder:
 
-`git clone https://github.com/ed-donner/agents.git`
+`git clone https://github.com/yasir-ysq/agents.git`
 
 This creates a new directory `agents` within your Projects folder and downloads the code for the class. Do `cd agents` to go into it. This `agents` directory is known as the "project root directory".
 
